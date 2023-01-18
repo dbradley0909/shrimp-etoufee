@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(72, 66, 66);
+    min-height: 100vh;
+}
+.title{
+    border:solid black;
+    text-align: center;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.description{
+    border:solid black;
+    padding: 12px;
+    margin: 22px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.nanopic{
+    height: 500px;
+    margin-left: 36%;
+    width: 400;
+}
+.ingredients{
+    text-align: center;
+}
+.items{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.stepsContainer{
+     margin: 12 px;
+     padding: 22 px;
+}
+.steps{
+    border:solid white;
+    border-style:ridge;
+    text-align: left;
+    margin:12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    position:relative;
+    display:flex;
+    justify-content: center;
+    align-items: center
+   
+}
+
+
+   
+    .Step{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    }
+    .sticky-footer{
+        color: white;
+        background-color: black;  
+    }
+    
